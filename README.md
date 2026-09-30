@@ -94,5 +94,12 @@ Warning: 80% or more of the budget is used.
 ```
 
 ## Screenshots
-Add your own terminal screenshots here, for example:
-`![Summary](docs/screenshots/summary.png)`
+
+### Summary
+![Summary](docs/screenshots/summary.png)
+
+### Expense List
+![Expense List](docs/screenshots/list.png)
+
+### Test Run
+![Test Run](docs/screenshots/tests.png)
